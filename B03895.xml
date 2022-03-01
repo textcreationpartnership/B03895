@@ -1,0 +1,338 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jack Had-Lands lamentation, that sold and made away his 'state, and spent his money early and late; and let his wife and children want, now he makes great moan and does repent; and desires all good-fellows where e're they be, to take warning of his poverty. He was cast in prison at that bout, his poor wife she helpt him out; she had small reason to do that thing but true love is a gallant thing; there is scarce a tap-house in London town. Will help a man when he is cast down. To the tune of, It is old ale that has undone me. This may be printed, R.P.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685-1688?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03895</idno>
+            <idno type="STC">Wing J60</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[136]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[228]</idno>
+            <idno type="EEBO-CITATION">99887177</idno>
+            <idno type="PROQUEST">ocm99887177</idno>
+            <idno type="VID">183386</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03895)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183386)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[136]; A5:2[177])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jack Had-Lands lamentation, that sold and made away his 'state, and spent his money early and late; and let his wife and children want, now he makes great moan and does repent; and desires all good-fellows where e're they be, to take warning of his poverty. He was cast in prison at that bout, his poor wife she helpt him out; she had small reason to do that thing but true love is a gallant thing; there is scarce a tap-house in London town. Will help a man when he is cast down. To the tune of, It is old ale that has undone me. This may be printed, R.P.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, at the Golden-Ball in Pye-Corner.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1685-1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "To all good-fellows i'le declare ..."</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Item at A5:2[177] trimmed.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  Early works to 1800.</term>
+               <term>Poverty in literature --  Early works to 1800.</term>
+               <term>Ballads --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="228" facs="tcp:183386:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>Jack Had-Lands Lamentation,</head>
+            <argument>
+               <lg>
+                  <l>That ſold and made away his 'State,</l>
+                  <l>And ſpent his Money early and late;</l>
+                  <l>And let his Wife and Children want,</l>
+                  <l>Now he makes great moan and does repent;</l>
+                  <l>And deſires all good-fellows where e're they be,</l>
+                  <l>To take warning of his poverty.</l>
+               </lg>
+               <lg>
+                  <l>He was caſt in Priſon at that bout,</l>
+                  <l>His poor Wife ſhe helpt him out;</l>
+                  <l>She had ſmall reaſon to do that thing</l>
+                  <l>But true love is a gallant thing;</l>
+                  <l>There is ſcarce a Tap-houſe in <hi>London</hi> town</l>
+                  <l>Will help a Man when he is caſt down.</l>
+               </lg>
+            </argument>
+            <opener>To the Tune of, <hi>It is Old Ale that has undone me.</hi>
+            </opener>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be Printed,</p>
+                        <closer>
+                           <signed>R. P.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>TO all Good-fellows I'le declare,</l>
+               <l>To take Example and have a care.</l>
+               <l>And do not ſpend your Means in waſte,</l>
+               <l>For you will repent it at the laſt:</l>
+               <l>For I my ſelf was blindly led,</l>
+               <l>And made all away, I was ſo bad;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Let all I ſay be warn'd by me,</hi>
+                  </l>
+                  <l>
+                     <hi>Of drinking and bad company.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I had Land and Living of my own,</l>
+               <l>And a fine Eſtate, it was well known;</l>
+               <l>It was worth threeſcore pound a year,</l>
+               <l>And I ſpent it all in A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and Beer,</l>
+               <l>My Hoſteſs was all my delight,</l>
+               <l>And I ſat up ſwilling day and night.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Let all I ſay,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I never took no care at all,</l>
+               <l>God knows I had a ſudden fall;</l>
+               <l>I ſold my 'State then all away,</l>
+               <l>To maintain the Ale-houſe night and day.</l>
+               <l>My Wife and Children was ſo poor,</l>
+               <l>Neighbours cry'd ſhame at me therefore,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Let all I ſay,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I would come home drunk unto my Wife,</l>
+               <l>And lead her ſuch a weary life,</l>
+               <l>And ſhe would ſpeak me then ſo fair,</l>
+               <l>And intreat me with a lovely ca<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e;</l>
+               <l>And ſay, good Husband be content,</l>
+               <l>Alas! you will theſe things repent:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Let all I ſay be warn'd by me,</hi>
+                  </l>
+                  <l>
+                     <hi>Of drinking and bad company.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <pb n="229" facs="tcp:183386:1"/>
+            <!-- PDF PAGE 3 -->
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>My little naked Children, they</l>
+               <l>Were almoſt pin'd, as Neighbours ſay,</l>
+               <l>And ſtarv'd ſo ſore for want of Cloſe,</l>
+               <l>I had no care of them God knows;</l>
+               <l>Now all is gone, and nothing left,</l>
+               <l>I may ſay, farewel Dagger with dudgeon and Haft:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Let all I ſay, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I caſt my ſelf into ſome Debt,</l>
+               <l>And was arreſted then for it;</l>
+               <l>Becauſe that I could get no Bail,</l>
+               <l>They caſt me in a naſty Gaile;</l>
+               <l>And there I lay from my poor Wife,</l>
+               <l>She reliev'd me or I had loſt my life:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Let all I ſay, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When I was in that miſery,</l>
+               <l>Ne'r an Ale-wife that would come to me;</l>
+               <l>For all I had ſpent my 'State away,</l>
+               <l>I had no help of them I ſay:</l>
+               <l>But my poor wife was my beſt friend,</l>
+               <l>And ſuccoured me unto the end:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Let all I ſay, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Then my poor wife ſhe ſought about,</l>
+               <l>And ſhe made a friend and got me out;</l>
+               <l>She ſold her Wedding-Ring away,</l>
+               <l>To pay my Fees without delay;</l>
+               <l>And did ſo rejoyce at my releaſe,</l>
+               <l>And brought me home agen in peace:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Let all I ſay, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Now all is ſpent I plainly ſee,</l>
+               <l>There is no help nor no remedy,</l>
+               <l>But labour hard and work full ſore,</l>
+               <l>That money will be better then all before</l>
+               <l>And bring it home unto my Wife,</l>
+               <l>And love her as I love my life:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Let all I ſay, &amp;c,</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>A man that has a ſtate or has good means</l>
+               <l>Ne'r uſe ſo much theſe tippling Queans</l>
+               <l>They drown your money ſo very ſore,</l>
+               <l>And make you at the laſt be poor;</l>
+               <l>I am ſure that I may ſay the ſame,</l>
+               <l>But alas, alas, I was to blame:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Let all I ſay, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Let every one that goes along,</l>
+               <l>Take notice of this new-made Song,</l>
+               <l>And take examble now by me,</l>
+               <l>That am fallen into this Poverty;</l>
+               <l>I wiſh that I might be the laſt,</l>
+               <l>But alack-aday, I am not the firſt:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Let all I ſay, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>So to conclude to end the ſtrife,</l>
+               <l>Let every man love his own Wife;</l>
+               <l>And ſave his money, and keep his ſtore,</l>
+               <l>Drink not too much to make you poor,</l>
+               <l>A man that has Grace will then repent,</l>
+               <l>To ſee his Wife and Children live in want<g ref="char:punc">▪</g>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Let all I ſay, be warn'd be me,</hi>
+                  </l>
+                  <l>
+                     <hi>Of Drinking and lewd Company,</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksby,</hi> at the Golden-Ball in <hi>Pye-Corner.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
